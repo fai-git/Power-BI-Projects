@@ -37,20 +37,16 @@ KPI Cards
 Bar Charts
 Donut Charts
 Maps (Sales by State)
-Slicers for interactive filtering
+Slicers for interactive filtering 
 
-4. Dashboard Overview (Screenshots)
-
-Fig: Dashboard 
-
-5. Key Features
+6. Key Features
 KPI Cards → Total Sales, Profit, Margin %, Discount
 Sales Performance → Category-wise & Sub-category profitability
 Customer Insights → Segment distribution & average discount
 Geographic Analysis → State-wise sales map
 Filters → Region, Segment, Ship Mode, Category
 
-6. Insights Discovered
+7. Insights Discovered
 
 Technology category brings the highest revenue
 West region performs best in overall sales
@@ -60,9 +56,10 @@ Higher discounts lead to lower profit margins
 
 
 
-7. Tools Used
+8. Tools Used
 Power BI
 Power Query
 DAX
 Microsoft Excel
 Data Visualization Techniques
+
