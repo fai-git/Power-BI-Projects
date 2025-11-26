@@ -1,0 +1,54 @@
+1.
+SQL Data Cleaning Tasks
+
+Power BI Dashboard Creation
+
+Basic Excel → Power BI reports
+
+Database queries, ER diagrams
+
+Simple Python automation scripts (optional)
+
+2. 
+Power BI Portfolio Ideas
+
+Sales Dashboard (Revenue, Region, Top Products)
+
+HR Dashboard (Attendance, Performance)
+
+Student Performance Dashboard
+
+E-commerce Order Analysis
+
+Finance/Profit & Loss Dashboard
+
+SQL Portfolio Ideas
+
+Write queries for:
+
+Joins
+
+Group By
+
+Window functions (basic)
+
+Data cleaning (duplicates, missing data)
+
+Create a small database project:
+
+Library Management
+
+Hospital Database
+
+Online Store Database
+
+Python Portfolio Ideas (only if comfortable)
+
+CSV cleaning script
+
+API data extractor
+
+Basic ETL pipeline
+
+Upload these to GitHub + add to your CV.
+
